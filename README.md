@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Hamza from Palestine<br><br>- 🔭 I’m working as a Front End Developer<br>- 📚 I'm currently learning Node JS & Express JS<br>- ⚡ In my free time I like to chill and watch movies</p>
+<p align="left">I'm Hamza from Palestine<br><br>- 🔭 I’m working as a Front End Developer<br>- 📚 I'm currently learning Node JS & Express JS & many other backend languages<br>- ⚡ In my free time I like to chill and watch movies</p>
 
 ###
 <br>
